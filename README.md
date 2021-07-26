@@ -1,4 +1,4 @@
-# Welcome, I'm Arize
+# Welcome, I'm Terry
 
 Hello there! My username is Terry, I'm a freelance senior python developer
 
