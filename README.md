@@ -4,7 +4,7 @@ Hello there! My username is Terry, I'm a freelance senior python developer.
 
 <div>
 
-## 🧱 Currently working on
+## 💼 Currently working on
 <ul>
     <li>Prim+</li>
     <ul>
@@ -15,17 +15,14 @@ Hello there! My username is Terry, I'm a freelance senior python developer.
 ## ⛏ Technologies and Tools
 
 <img alt="HTML5" height="26px" src="https://img.shields.io/badge/Html5-282C34?logo=html5&logoColor=E34F26" />
-<img alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" />
+<img alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6" />
 <img alt="JavaScript" height="26px" src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=F7DF1E" />
-<img alt="React" height="26px" src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" />
 <img alt="Python" height="26px" src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=339933" />
-<img alt="MongoDB" height="26px" src="https://img.shields.io/badge/MongoDb-282C34?logo=mongodb&logoColor=47A248" />
 <img alt="VSCode" height="26px" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
-<img alt="Express" height="26px" src="https://img.shields.io/badge/Express-282c34?logo=express&logoColor=FFFFF" />
     
 ## 📚 Currently Learning
     
-<img alt="CSharp" height="26px" src="https://img.shields.io/badge/C Sharp-282C34?logo=csharp&logoColor=47A248" />
+<img alt="DevOps" height="26px" src="https://img.shields.io/badge/C Sharp-282C34?logo=devops&logoColor=47A248" />
 </div>
 
 <br />
