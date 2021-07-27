@@ -22,7 +22,7 @@ Hello there! My username is Terry, I'm a freelance senior python developer.
     
 ## 📚 Currently Learning
     
-<img alt="DevOps" height="26px" src="https://img.shields.io/badge/C Sharp-282C34?logo=devops&logoColor=47A248" />
+<img alt="DevOps" height="26px" src="https://img.shields.io/badge/DevOps-282C34?logo=devops&logoColor=47A248" />
 </div>
 
 <br />
