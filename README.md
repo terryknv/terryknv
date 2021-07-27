@@ -15,7 +15,6 @@ Hello there! My username is Terry, I'm a freelance senior python developer.
 ## ⛏ Technologies and Tools
 
 <img alt="HTML5" height="26px" src="https://img.shields.io/badge/Html5-282C34?logo=html5&logoColor=E34F26" />
-<img alt="CSS3" height="26px" src="https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6" />
 <img alt="JavaScript" height="26px" src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=F7DF1E" />
 <img alt="Python" height="26px" src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=339933" />
 <img alt="VSCode" height="26px" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
