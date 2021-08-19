@@ -8,7 +8,7 @@ Hello there! My username is Terry, I'm a freelance Senior Python Developer.
 <ul>
     <li>The Cloud</li>
     <ul>
-        <li>The Cloud is being developed with the desire to offer easy, free and quality hosting for Discord Bots./</li>
+        <li>The Cloud is being developed with the desire to offer easy, free and quality hosting for Discord Bots.</li>
     </ul>
 </ul>
 
