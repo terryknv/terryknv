@@ -21,7 +21,7 @@ Hello there! My username is Terry, I'm a freelance Senior Python Developer.
     
 ## 📚 Currently Learning
     
-<img alt="CSS3" height="26px" src="https://camo.githubusercontent.com/1d372ce1dd004b42242a105c8881a869738e4604097976354aeced3322f93bbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3238324333343f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236" />
+<img alt="JavaScript" height="26px" src="https://img.shields.io/badge/Javascript-282C34?logo=javascript&logoColor=F7DF1E" />
 </div>
 
 <br />
