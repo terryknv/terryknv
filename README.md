@@ -1,6 +1,6 @@
 # Terry
 
-Freelance Senior Python Developer
+Freelance Junior Python Developer
 
 ## Social Media's:
 [<img align="left" alt="Terry | YouTube" width="25px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />](https://www.youtube.com/c/Terry565)
