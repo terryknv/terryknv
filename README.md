@@ -20,4 +20,4 @@
 <br>
 <br>
 
-<img align="left" alt="Terry Github Stats" src="https://github-readme-stats.vercel.app/api?username=1Terryy&show_icons=true&hide_border=true&theme=tokyonight" />
+![Snake animation](https://github.com/1Terryy/snake/blob/main/snake.svg)
