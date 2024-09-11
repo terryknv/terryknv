@@ -13,8 +13,8 @@
 <img align="left" title="JavaScript" alt="JavaScript" width="25px" src="https://addons-media.operacdn.com/media/CACHE/images/extensions/65/203065/1.2.4.1-rev2/images/0cded3a3276425911d55a2552bf361bf/7852aa99f857cd72012843b4cce5090f.jpg"/>
 <img align="left" title="Python" alt="Python" width="25px" src="https://img.icons8.com/color/452/python.png"/>
 <img align="left" title="MongoDB" alt="MongoDB" width="25px" src="https://img.icons8.com/color/452/mongodb.png"/>
-<img align="left" title="HTML" alt="HTML" width="25px" src="https://image.flaticon.com/icons/png/512/732/732212.png"/>
-<img align="left" title="CSS" alt="CSS" width="25px" src="https://storagemisellf.blob.core.windows.net/images/logo/skills/css-logo.png"/>
+<img align="left" title="HTML" alt="HTML" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049"/>
+<img align="left" title="CSS" alt="CSS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817"/>
 <img align="left" title="GitHub" alt="GitHub" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"/>
 <br>
 <br>
