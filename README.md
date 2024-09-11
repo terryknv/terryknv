@@ -1,6 +1,7 @@
 # Terry
 
 ## Social Medias:
+[<img align="left" alt="Terry | Instagram" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/640px-Instagram_logo_2016.svg.png" />](https://www.youtube.com/c/Terry565)
 [<img align="left" alt="Terry | YouTube" width="25px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />](https://www.youtube.com/c/Terry565)
 [<img align="left" alt="Terry | Twitter" width="25px" src="https://img.icons8.com/color/452/twitter.png" />](https://twitter.com/Terrwy_)
 [<img align="left" alt="Terry | Discord" width="25px" src="https://img.icons8.com/color/452/discord.png" />](https://terry-y.com/discord)
